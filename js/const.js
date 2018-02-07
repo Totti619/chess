@@ -4,6 +4,6 @@ const
     BOARD_CLASS=BOARD_ID,
     BOARD_ROW_CLASS=BOARD_CLASS+"_row",
     BOARD_ROW_CELL_CLASS=BOARD_ROW_CLASS+"_cell",
-    BOARD_WHITE_CELL_CLASS="white",
-    BOARD_BLACK_CELL_CLASS="black"
+    WHITE="white",
+    BLACK="black"
 ;

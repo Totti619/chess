@@ -1,0 +1,24 @@
+.white{
+    background-color:#ffffff;
+}
+.black{
+    background-color:#000000;
+}
+.board{
+    margin: 50px;
+    border:1px solid black;
+    overflow: auto;
+    display: inline-block;
+}
+.board_row{
+    clear: both;
+}
+.board_row_cell{
+    float: left;
+    width:100px;height:100px;
+}
+.board_row,
+.board_row_cell{
+    padding:0;
+    margin:0;
+}
